@@ -8,7 +8,7 @@ def con():
   p=float(ent.get())
   c=(5/9)*(p-32)
   label3["text"]=str(round(c ,2))+"\N{DEGREE CELSIUS}"
-  label4["text"]=str(c+273)+" " +"K"
+  label4["text"]=str(c+273.15)+" " +"K"
   
 ent=tk.Entry( width=10)
 label1=tk.Label(text="\N{DEGREE FAHRENHEIT}")
