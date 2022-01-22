@@ -45,7 +45,7 @@ def collatz_print():
     
  
 frame=tk.Frame(master=win3)
-label=tk.Label(master=frame ,text="Enter a Natural Number: ")
+label=tk.Label(master=frame ,text="Enter a natural number: ")
 ent=tk.Entry(master=frame  , width=10)
 
 frame2=tk.Frame(master=win3)
