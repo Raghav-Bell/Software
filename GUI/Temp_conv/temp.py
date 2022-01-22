@@ -12,7 +12,7 @@ def con():
   
 ent=tk.Entry( width=10)
 label1=tk.Label(text="\N{DEGREE FAHRENHEIT}")
-but=tk.Button(text="\N{RIGHTWARDS BLACK ARROW}" ,command=con)
+but=tk.Button(text="\N{RIGHTWARDS BLACK ARROW}" ,bg="orange",command=con)
 label3=tk.Label(text="\N{DEGREE CELSIUS}" )
 label4=tk.Label(text="K")
 
