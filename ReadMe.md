@@ -1,4 +1,4 @@
-<h1>Introduction:</h1>
+<h2>Collatz Conjecture</h2>
 The <b>Collatz conjecture </b> or <b>3x + 1 problem</b> in mathematics asks whether repeating 
 two simple arithmetic operations will eventually transform every positive integer into one. 
 It concerns sequences of integers in which each term is obtained from the previous term as follows: 
