@@ -6,3 +6,4 @@ You can find  plenty of resources on it on internet .( my favourite video is <a 
 
 </br>In this  jupyter notebook , i built quantum circuits to demonstrate entanglement on quantum computers using Qiskit . 
 You can run those circuits on real quantum computers and can analyse quantum entanglement .
+To run this jupyter notebook you need to install qiskit package on your local device or your can use <a href="https://quantum-computing.ibm.com/lab"> IBM Quantum Experience .</a>
