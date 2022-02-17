@@ -22,11 +22,13 @@ n=int(input("Enter a natural number"))
 while int(n)!=1:
  if(n%2==0):
   z.lt(60)
+  z.color("green") #color
   n=n/2
   koch(z,n)
             
  else:
   z.lt(120)
+  z.color("red") #color
   n=(3*n+1)/2
   koch(z,n)
 #End
