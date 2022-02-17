@@ -1,0 +1,8 @@
+<h1>Koch curves </h1>
+I used turtle , python3 . You just need python3.</br>
+<p>Fractals are very interesting curves in geometry  , not only they are in theoretical mathematics  but even in many fun things like deep dreams .
+I am reading "Think python by Allen Downey"  , i got an excercise about koch curves using turtle .I got excited and build it . But i was more 
+curious to mix fractals and random numbers(Collatz conjecture(again!)) . I wrote this program . It is very fun programme to run & it needs some patience.
+</br><b>Caution</b>: Calculate Collatz cycles before giving an input . Do not try number like 27 .(70 cycles)
+</br>Below is an image  of pattern generated with input =23.</br>
+<!<img src="https://drive.google.com/file/d/13JBI2k_VNsfNQqWsjz3D8K4C3ynWuUcg/view?usp=sharing" alt="Pattern for input=23" >
