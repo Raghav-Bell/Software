@@ -1,5 +1,8 @@
-<h2>Tools Used:</h2>
-Python Libraries :boltiot 1.11.2 ,qiskit 0.36.1,matplotlib and their dependencies. Python version=3.9.7
+![python version](https://img.shields.io/badge/python-v3.9.7-blue)
+![boltiot lib](https://img.shields.io/badge/boltiot-v1.11.2-green)
+![qiskit lib](https://img.shields.io/badge/qiskit-v0.36.1-purple)
+![matplotlib lib](https://img.shields.io/badge/matplotlib-v3.5.0-orange)
+<h2>Components Used:</h2>
 <br>BOLT IOT module,2-LEDS,3-Male-Male jumpers,Breadboard,5V Adopter,2 resistors(330 ohms)</br>
 <br><p>This is my capstone project of <a href="https://trainings.boltiot.com/p/iotandml">BOLT IOT /ML course </a>.In this project i have demonstrated Superdense coding (Quantum protocol) , using BOLT IOT platform</p>
 </br>
