@@ -1,5 +1,7 @@
+![python version](https://img.shields.io/badge/python-v3.x-blue)
+![python lib](https://img.shields.io/badge/python_lib-turtle-green)
 <h1>Koch curves </h1>
-I used turtle , python3 . You just need python3.</br>
+
 <p>Fractals are very interesting curves in geometry  , not only they are in theoretical mathematics  but even in many fun things like deep dreams .
 I am reading "Think python by Allen Downey"  , i got an excercise about koch curves using turtle .I got excited and build it . But i was more 
 curious to mix fractals and random numbers(Collatz conjecture(again!)) . I wrote this program . It is very fun programme to run & it needs some patience.
