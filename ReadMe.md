@@ -1,5 +1,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Raghav-Bell/Software?color=orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/raghav-bell/Software)
+![python version](https://img.shields.io/badge/python-v3.x-blue)
 <h2>Collatz Conjecture</h2>
 The <b>Collatz conjecture </b> or <b>3x + 1 problem</b> in mathematics asks whether repeating 
 two simple arithmetic operations will eventually transform every positive integer into one. 
