@@ -1,3 +1,7 @@
+![python version](https://img.shields.io/badge/python-v3.8.12-orange)
+![python lib](https://img.shields.io/badge/python_lib-tkinter-green)
+![qiskit lib](https://img.shields.io/badge/qiskit-v0.34.1-purple)
+![matplotlib lib](https://img.shields.io/badge/matplotlib-v3.5.1-blue)
 <h1> Entanglement and Bell states </h1>
 <i>"Spooky action at a distance."</i></br> -<b> Albert Einstein</b></br>
 Entanglement is centre point of whole Quantum Mechanics and Quantum Information theory . It is one of the thing einstein did not like about Quantum mechanics.
